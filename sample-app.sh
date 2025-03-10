@@ -1,4 +1,4 @@
-#!/bin/bash
+su  root#!/bin/bash
 
 mkdir tempdir
 mkdir tempdir/templates
